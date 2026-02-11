@@ -19,7 +19,6 @@ Each lecture folder contains detailed notes, examples, and supporting screenshot
 | Lecture | Topic                      | Link          |
 | ------- | -------------------------- | ------------- |
 | 1       | Keywords and Types of Data | [Lecture 1]() |
-
 | ... | ... | ... |
 
 > Each folder contains:
