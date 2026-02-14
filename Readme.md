@@ -10,7 +10,7 @@ This repo contains organized lecture notes, visual explanations, examples, and s
 
 | Subject        | Description                                               | Folder            |
 | -------------- | --------------------------------------------------------- | ----------------- |
-| Statistics     | Probability, distributions, hypothesis testing, inference | `statistics/`     |
+| Statistics     | Probability, distributions, hypothesis testing, inference |[Statistics] (https://github.com/AqibNiazi/mathematics-foundations/tree/main/Statistics)      |
 | Linear Algebra | Vectors, matrices, eigenvalues, transformations           | `linear-algebra/` |
 | Calculus       | Derivatives, integrals, optimization                      | `calculus/`       |
 | Probability    | Random variables, distributions, expectation              | `probability/`    |
