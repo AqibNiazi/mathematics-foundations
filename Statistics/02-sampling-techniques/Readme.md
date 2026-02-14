@@ -2,7 +2,6 @@
 
 This lecture covers experimental design, sampling methods, and sampling error — foundational concepts in statistics and data science.
 
----
 
 ## 1️⃣ Design of Experiment (DOE)
 
@@ -20,7 +19,6 @@ A company tests whether a new fertilizer increases crop yield.
 
 Here, fertilizer type is the **treatment variable**.
 
----
 
 ## 2️⃣ Observational Study
 
@@ -33,7 +31,6 @@ A researcher studies whether people who exercise live longer.
 - No one is forced to exercise
 - Researcher simply observes behavior
 
----
 
 ## 3️⃣ Difference: Experiment vs Observational Study
 
@@ -44,7 +41,6 @@ A researcher studies whether people who exercise live longer.
 | Random Assignment | Yes                           | No                  |
 | Example           | Clinical trial                | Survey research     |
 
----
 
 ## 4️⃣ What is Random?
 
@@ -57,7 +53,6 @@ Random means:
 - Tossing a fair coin
 - Selecting students using a random number generator
 
----
 
 ## 5️⃣ Simple Random Sample (SRS)
 
@@ -71,7 +66,6 @@ Sample: 100 students
 Select 100 students using a random number generator.
 Each student has an equal chance of selection.
 
----
 
 ## 6️⃣ Convenience Sampling
 
@@ -82,8 +76,6 @@ Sampling based on **ease of access**.
 ### Example
 
 Surveying only students from your own classroom.
-
----
 
 ## 7️⃣ Systematic Sampling
 
@@ -102,7 +94,6 @@ k = 1000 / 100 = 10
 
 Select every 10th person from the list.
 
----
 
 ## 8️⃣ Stratified Sampling
 
@@ -123,7 +114,6 @@ Sample of 100:
 
 Ensures proportional representation.
 
----
 
 ## 9️⃣ Cluster Sampling
 
@@ -136,8 +126,6 @@ Randomly select entire clusters.
 A city has 20 schools.
 Randomly select 5 schools.
 Survey all students in those selected schools.
-
----
 
 ## 🔟 Sampling Error
 
@@ -157,8 +145,6 @@ Sample average income = $48,000
 Sampling error = $2,000
 
 Sampling error occurs because we study a sample, not the entire population.
-
----
 
 # 📌 Summary
 
