@@ -6,11 +6,12 @@ This repository contains organized lecture notes, visual explanations, examples,
 
 ## 📚 Subjects Covered
 
-| Subject | Description | Folder |
-| Statistics | Probability, distributions, hypothesis testing, inference | [Statistics](Statistics/) |
-| Linear Algebra | Vectors, matrices, eigenvalues, transformations | [Linear Algebra](Linear-Algebra/) |
-| Calculus | Derivatives, integrals, optimization | [Calculus](Calculus/) |
-| Probability | Random variables, distributions, expectation | [Probability](Probability/) |
+| Subject         | Description                                                      | Folder Link |
+|-----------------|------------------------------------------------------------------|------------|
+| Statistics      | Probability, distributions, hypothesis testing, statistical inference | [Statistics](Statistics/) |
+| Linear Algebra  | Vectors, matrices, eigenvalues, linear transformations          | [Linear Algebra](Linear-Algebra/) |
+| Calculus        | Derivatives, integrals, limits, optimization                    | [Calculus](Calculus/) |
+| Probability     | Random variables, probability theory, expectation               | [Probability](Probability/) |
 
 More subjects will be added as the learning journey continues.
 
