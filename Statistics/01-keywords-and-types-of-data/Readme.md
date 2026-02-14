@@ -2,7 +2,6 @@
 
 This repository contains structured notes on **fundamental statistical concepts** learned from introductory statistics lectures. These concepts form the foundation for **Data Science, Machine Learning, and Data Analysis**.
 
----
 
 # 📌 Core Terminologies
 
@@ -17,7 +16,6 @@ Data are raw facts, observations, or measurements collected for analysis.
 - Colors of cars
 - Marks scored in an exam
 
----
 
 ## 2️⃣ Statistics
 
@@ -29,7 +27,6 @@ Statistics is the science of collecting, organizing, analyzing, interpreting, an
 - Calculating average marks of a class
 - Finding the percentage of voters supporting a candidate
 
----
 
 ## 3️⃣ Population
 
@@ -42,8 +39,6 @@ A population is the entire group of individuals or items we want to study.
 - All customers of Amazon
 - All cars manufactured in 2025
 
----
-
 ## 4️⃣ Sample
 
 **Definition:**
@@ -54,7 +49,6 @@ A sample is a smaller subset taken from the population to represent it.
 - 200 students selected from a university
 - 1,000 customers selected for a survey
 
----
 
 ## 5️⃣ Census
 
@@ -66,7 +60,6 @@ A census is when data is collected from every member of the population.
 - National population census
 - Surveying every employee in a company
 
----
 
 # 📂 Parameter vs Statistic
 
@@ -82,7 +75,6 @@ A parameter is a numerical value that describes a population.
 
 > Often represented by Greek symbols (μ, σ, etc.)
 
----
 
 ## 7️⃣ Sample Statistic (S.S)
 
@@ -96,7 +88,6 @@ A statistic is a numerical value calculated from a sample.
 
 > Sample statistics are used to estimate population parameters.
 
----
 
 # 📊 Types of Data
 
@@ -113,7 +104,6 @@ Data that describe qualities or categories.
 
 > Cannot be meaningfully averaged.
 
----
 
 ## 9️⃣ Quantitative (Numerical) Data
 
@@ -129,7 +119,6 @@ Data that represent numerical values or quantities.
 
 > Can be used in mathematical calculations.
 
----
 
 # 📈 Types of Quantitative Data
 
@@ -146,7 +135,6 @@ Countable numerical values (usually whole numbers).
 
 > Cannot have fractions.
 
----
 
 ## 1️⃣1️⃣ Continuous Data
 
@@ -161,7 +149,6 @@ Numerical values that can take any value within a range (including decimals).
 
 > Measured, not counted.
 
----
 
 # 📏 Four Levels of Measurement
 
@@ -176,8 +163,6 @@ Categorical data with no inherent order.
 - Car brands
 - Gender
 
----
-
 ## 2️⃣ Ordinal Level
 
 **Definition:**
@@ -188,8 +173,6 @@ Categorical data with meaningful order, but unequal intervals.
 - Class rank (1st, 2nd, 3rd)
 - Satisfaction level (Low, Medium, High)
 - Education level
-
----
 
 ## 3️⃣ Interval Level
 
@@ -202,8 +185,6 @@ Numerical data with equal intervals but no true zero.
 - IQ scores
 
 > Zero does not mean absence.
-
----
 
 ## 4️⃣ Ratio Level
 
@@ -219,7 +200,6 @@ Numerical data with equal intervals and a true zero.
 
 > Ratios are meaningful (20 kg is twice 10 kg).
 
----
 
 # ✅ Summary Table
 
